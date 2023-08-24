@@ -66,6 +66,9 @@ footer {
   background-color: #17a2b8;
 }
 
+/* SP端末でのスタイル */
+@media screen and (max-width: 576px) {
+
 #page-top {
   width: 40px;
   height: 40px;
